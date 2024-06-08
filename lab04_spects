@@ -1,0 +1,35 @@
+registration and login using files
+
+press 1 for register:
+1- validate firstname , lastname , not empty , not number, not email
+
+2-validate email
+
+3- validate password min len 8 chars
+
+4- validate phone number
+
+-----> after registeration :::
+    do you want to login ? yes
+       email:
+       password:
+       if correct
+       logged_in successfully
+      if error ?
+      do you want to register new account ???
+
+--------------------------------------
+2- if choose login
+  do you want to login ? yes
+       email:
+       password:
+       if correct
+       logged_in successfully
+  if error ?
+    do you want to register new account ???
+
+
+ --------------------------
+ break till 12:50
+ lab to 3:30
+ --------------------------
