@@ -6,3 +6,5 @@ def ask_for_int(message='please enter number'):
         if num.isdigit():
             return int(num)
         print("==== please enter valid number =====")
+
+

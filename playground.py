@@ -28,6 +28,13 @@
 
 
 
+try:
+    num  = int(input("Enter a number: "))
+    res = 10/num
+except :
+    print("--- invalid number ---")
+    exit()
+print("=== after the conversion ")
 
 
 
