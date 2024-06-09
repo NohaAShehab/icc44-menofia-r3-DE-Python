@@ -1,0 +1,19 @@
+{
+  "users": [
+  {
+    "id": 1 , "name": "ahmed", "track": "Cloud"
+  },
+   {
+    "id": 2, "name": "ali", "track": "Cloud"
+  },
+   {
+    "id": 3 , "name": "mohamed", "track": "Cloud"
+  }
+],
+  "courses": ["python", "sql"],
+  "instructors": [
+    {"name": "noha", "id": 100},
+    {"name": "ali", "id": 101},
+    {"name": "mostafa", "id": 102}
+  ]
+}

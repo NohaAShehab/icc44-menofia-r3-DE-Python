@@ -46,6 +46,10 @@ def hangman():
 
 
 if __name__ == "__main__":
-    hangman()
+    # hangman()
     # res=get_location_of_char('banana', 'a')
     # print(res)
+    pass
+
+
+import math
