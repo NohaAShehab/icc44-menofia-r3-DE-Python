@@ -26,3 +26,25 @@ class Employee:
 
 emp = Employee("fff", "fff", 444)
 print("-----")
+
+from abc import ABC, abstractmethod
+
+
+class Book:
+    pass
+
+b = Book()
+print(isinstance(b, object))
+
+res = type('iti')
+
+
+class Employee:
+    def __init__(self, name, email, password):
+        self.name = name
+        self.email = email
+        self.password = password
+
+    # override
+    def __str__(self):
+        pass
